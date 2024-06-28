@@ -1,0 +1,16 @@
+{
+  "name": "onity",
+  "scripts": {
+    "start": "rmdir /s /q .cache && parcel index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^5.0.0-beta.5",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "sass": "^1.70.0"
+  }
+}
